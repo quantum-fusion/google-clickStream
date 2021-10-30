@@ -3,7 +3,7 @@ a sample clickstream test
 
 //        The problem might be underspecified. Please feel free to ask questions.
 
-//        In the programming language of your choice,
+# //        In the programming language of your choice,
 //        implement an API that takes the filename of a
 //        comma-separated value (CSV) file and provides
 //        convenient access to its values.
