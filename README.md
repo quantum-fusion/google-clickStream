@@ -1,4 +1,4 @@
-# google-clickStream
+# clickStream
 a sample clickstream test 
 
 //        The problem might be underspecified. Please feel free to ask questions.
