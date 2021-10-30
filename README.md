@@ -32,6 +32,9 @@ a sample clickstream test
 // Path selected was (dynamic key size and dynamic length), however testcase assumed a length, this can be changed.
 // Path selected is storage in Google Big Table and Google Big Query -> cheap and fast
 
+// Tests executed:
+https://github.com/quantum-fusion/google-clickStream/blob/main/ClickStream/src/TestLogic.java
+
 // Example Test output:
 
 [RedSox, 1,2, Boston,Bob,Bosc, Austin,Alice,Apple] // echoes input stream tuples
