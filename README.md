@@ -34,4 +34,8 @@ a sample clickstream test
 
 // Example Test output:
 
+[RedSox, 1,2, Boston,Bob,Bosc, Austin,Alice,Apple] // echoes input stream tuples
+
+true // finds redsox wins the world series
+
 
