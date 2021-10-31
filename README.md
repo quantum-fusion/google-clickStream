@@ -2,13 +2,13 @@
 a sample clickstream test 
 
 # problem statement scope
--        The problem might be underspecified. Please feel free to ask questions.
--        In the programming language of your choice,
--        implement an API that takes the filename of a
--        comma-separated value (CSV) file and provides
--        convenient access to its values.
--        Here’s an example of a CSV file, is ASCII text.
--        load a file that is myfile.txt from file system
+- The problem might be underspecified. Please feel free to ask questions.
+- In the programming language of your choice,
+- implement an API that takes the filename of a
+- comma-separated value (CSV) file and provides
+- convenient access to its values.
+- Here’s an example of a CSV file, is ASCII text.
+- load a file that is myfile.txt from file system
 
 - location,employee,favorite fruit 
 - Assumption is: dynamic keys , dynamic length
