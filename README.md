@@ -33,7 +33,7 @@ a sample clickstream test
 # Design choices:
 - Path selected was (dynamic key size and dynamic length), however testcase assumed a length, this can be changed.
 - Path selected is storage in Google Big Table and Google Big Query -> cheap and fast
-- Path selected is AWS with Kinesis and S3 buckets for clickstream data -> can execute queries using AWS and Glue 
+- Path selected is AWS with Kinesis and S3 buckets for clickstream data -> can execute queries using AWS and Glue, popular and competes on cost with google at scale
 
 # Tests executed:
 https://github.com/quantum-fusion/google-clickStream/blob/main/ClickStream/src/TestLogic.java
