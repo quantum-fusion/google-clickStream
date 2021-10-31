@@ -12,7 +12,7 @@ a sample clickstream test
 
 - location,employee,favorite fruit 
 - Assumption is: dynamic keys , dynamic length
-- Austin,Alice,Apple // values1 -> A choice: whether or not that we convert into an array that deletes ,
+- Austin,Alice,Apple // values1 -> A choice: whether or not that we convert into an array that deletes , or just store as JSON
 - Boston,Bob,Bosc Pear // values2
 
 # Initial requirements discussed:
