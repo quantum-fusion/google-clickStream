@@ -28,10 +28,12 @@ a sample clickstream test
 - This could be loaded into memory using Redis and then persisted to MongoDB/Atlas.
 - This could be loaded into Snowflake for fast query
 - This could be loaded into a Databrick and queried with Spark dataframes.
+- This could be stored on AWS S3 using Kinesis (https://aws.amazon.com/blogs/big-data/create-real-time-clickstream-sessions-and-run-analytics-with-amazon-kinesis-data-analytics-aws-glue-and-amazon-athena/)
 
 # Design choices:
 - Path selected was (dynamic key size and dynamic length), however testcase assumed a length, this can be changed.
 - Path selected is storage in Google Big Table and Google Big Query -> cheap and fast
+- Path selected is AWS with Kinesis and S3 buckets for clickstream data -> can execute queries using AWS and Glue 
 
 # Tests executed:
 https://github.com/quantum-fusion/google-clickStream/blob/main/ClickStream/src/TestLogic.java
