@@ -10,9 +10,10 @@ a sample clickstream test
 -        Here’s an example of a CSV file, is ASCII text.
 -        load a file that is myfile.txt from file system
 
-// location,employee,favorite fruit // Assumption is: dynamic keys , dynamic length
-// Austin,Alice,Apple // values1 -> A choice: whether or not that we convert into an array that deletes ,
-// Boston,Bob,Bosc Pear // values2
+- location,employee,favorite fruit 
+- Assumption is: dynamic keys , dynamic length
+- Austin,Alice,Apple // values1 -> A choice: whether or not that we convert into an array that deletes ,
+- Boston,Bob,Bosc Pear // values2
 
 # Initial requirements discussed:
 - Assumption is that we have a website that generates tuples like Google Double click, not an input file stream like above.
