@@ -1,8 +1,8 @@
 # clickStream
 a sample clickstream test 
 
+# problem statement scope
 -        The problem might be underspecified. Please feel free to ask questions.
-
 -        In the programming language of your choice,
 -        implement an API that takes the filename of a
 -        comma-separated value (CSV) file and provides
